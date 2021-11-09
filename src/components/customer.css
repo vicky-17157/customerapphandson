@@ -1,0 +1,28 @@
+.table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+  }
+  
+  .th {
+    background-color: #cf0b04;
+    color: white;
+    text-align: center;
+  }
+  
+  .th,
+  td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+    color: rgb(4, 219, 219);
+    background-color: rgb(225, 255, 205);
+  }
+
+  .button-del{
+    color: black;
+    background-color: cyan;
+    border: darkblue solid 2px;
+  }
+  
+  
